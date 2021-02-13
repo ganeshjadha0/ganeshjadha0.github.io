@@ -1,0 +1,60 @@
+img {
+  border: 3px;
+  height: 100px;
+  width: 100px;
+  border: rgb(184, 39, 63);
+  border-radius: 50px;
+}
+.table0,
+th,
+td {
+  border: rgb(218, 206, 211);
+  background-color: rgb(97, 120, 131);
+  height: auto;
+  width: auto;
+}
+.table2,
+th,
+td {
+  height: auto;
+  width: auto;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table3,
+th,
+td {
+  height: auto;
+  width: auto;
+  border-collapse: collapse;
+  border: 2px solid rgb(138, 160, 87);
+  vertical-align: bottom;
+  margin-left: auto;
+  margin-right: auto;
+}
+.crb,
+.mar,
+.p,
+.e,
+.f,
+.l {
+  text-decoration: underline rgb(134, 156, 104);
+}
+p {
+  text-indent: 30px;
+  color: #aeb446;
+}
+.ga,
+.ne,
+.sh {
+  list-style-type: square;
+  list-style-position: initial;
+  margin: auto;
+}
+ul li {
+  background: rgb(226, 224, 221);
+  margin: 2px;
+  width: 50%;
+}
