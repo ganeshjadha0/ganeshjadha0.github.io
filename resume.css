@@ -68,3 +68,23 @@ ul li:hover {
   height: auto;
   color: rgb(236, 125, 81);
 }
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: aqua;
+}
+a:visited {
+  color: rgb(92, 145, 161);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
