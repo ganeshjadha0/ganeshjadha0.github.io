@@ -60,3 +60,11 @@ ul li {
   border: 2px;
   border-radius: 4px;
 }
+ul li {
+  transition: width 1s, height 4s;
+}
+ul li:hover {
+  width: auto;
+  height: auto;
+  color: rgb(236, 125, 81);
+}
